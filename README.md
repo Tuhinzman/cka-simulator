@@ -181,3 +181,15 @@ If this helped you, please give it a star! ⭐
 
 💬 Feel free to reach out for questions, feedback, or collaboration opportunities!
 
+
+## 🔧 Troubleshooting
+
+Having issues? Check the comprehensive [Troubleshooting Guide](TROUBLESHOOTING.md) for solutions to common problems including:
+
+- ⚠️ SSH Connection Timeout (IP changed)
+- Instances stopped/started
+- Lost SSH key
+- Metrics Server not working
+- High AWS costs
+- And more...
+
