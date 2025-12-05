@@ -164,3 +164,20 @@ If this helped you, please give it a star! ⭐
 ---
 
 **Made with ❤️ for CKA exam preparation**
+
+## 👤 Author
+
+**Tuhin Zaman**
+- 🔗 LinkedIn: [linkedin.com/in/tuhinzaman](https://www.linkedin.com/in/tuhinzaman/)
+- 🐙 GitHub: [@Tuhinzman](https://github.com/Tuhinzman)
+- 💼 Role: Cloud DevOps Engineer
+- 🎯 Certifications: AWS Solutions Architect Associate, CKA (In Progress)
+
+## 📞 Contact & Support
+
+- **LinkedIn:** https://www.linkedin.com/in/tuhinzaman/
+- **Issues:** https://github.com/Tuhinzman/cka-simulator/issues
+- **Discussions:** https://github.com/Tuhinzman/cka-simulator/discussions
+
+💬 Feel free to reach out for questions, feedback, or collaboration opportunities!
+
